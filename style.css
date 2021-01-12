@@ -1,0 +1,19 @@
+#titre{
+color:blue;
+background-color: black;
+}
+.color{
+    color: brown;
+}
+
+
+.sac div{
+color: seagreen;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+}
+.sac div{
+    background-color: blanchedalmond;
+}
